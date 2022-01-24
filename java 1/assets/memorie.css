@@ -1,0 +1,18 @@
+body{
+    background-color: lavender;
+}
+
+.card{
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+    font-size: 20px;   
+    background-color: black; 
+}
+.visible{
+    background-color: lavender;
+}
+.guessed{
+    background-color: green;
+}
